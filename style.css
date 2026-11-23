@@ -1,0 +1,131 @@
+body {
+    background-image: url(pexels-steve-13551577.jpg);
+    padding-top: 70px;
+}
+a {
+    background-color: ;
+    font-size: x-large;
+    padding: 20x;
+    margin: 20px;
+    text-decoration:none;
+    display: inline;
+}
+.dd {
+    color: black;           
+display: inline; 
+}
+
+a {    
+  display: inline;
+}
+.ii {
+    padding: 10px;
+    margin: 20px;
+    border: 5px solid white;
+    border-radius: 50%;
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+.ll {
+  padding: 10px;
+  margin: 10px;
+ font-size: xx-large;
+ color: green;
+ font-style:oblique ;
+ font-weight: bolder;
+}
+.pp {
+    text-align: center;
+    background-color: ;
+    color: aliceblue;
+}
+.navbar {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 20px;
+  padding: 15px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 25px;
+  border: 2px solid #90EE90;
+  border-radius: 30px;
+  transition: 0.5s;
+}
+.navbar a:hover {
+  background-color: #90EE90;
+  color: black;
+  transform: scale(1.2);
+  box-shadow: 0 0 30px  #90EE90;
+}
+.section {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.languages {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 1200px;
+  padding: 80px 0;
+  padding-top: 200px;
+  text-align: center;
+}
+
+.lang {
+  text-align: center;
+}
+
+.lang img {
+  width: 100px;
+  height: 100px;
+}
+
+.lang p {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin-top: 10px;
+}
+.hh {
+  text-align: center;
+  padding: 80px 0;
+  display: block;
+justify-content: center;
+}
+.wr {
+  
+  margin-top: 800px;
+  justify-content: center;
+  gap: 15px;
+  font-size: 28px;
+}
+.lppp {
+  color: red;
+  display: flex;
+  justify-content: center;
+}
+.pop {
+  text-shadow: 50px;
+  font-size: 40px;
+  color: gold;
+font-weight: bold;
+font-style: inherit;
+}
+.wwwe {
+  display: flex;
+  justify-content: center;
+}
